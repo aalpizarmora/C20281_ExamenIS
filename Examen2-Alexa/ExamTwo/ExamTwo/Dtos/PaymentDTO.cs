@@ -6,4 +6,4 @@ namespace ExamTwo.Dtos
         public List<int> Coins { get; set; }
         public List<int> Bills { get; set; }
     }
- }
+}
